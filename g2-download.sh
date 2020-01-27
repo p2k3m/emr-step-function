@@ -1,0 +1,1 @@
+aws s3 sync s3://ellucian-qe-eu/sqoop-output/nonprod/lst/ /mnt/var/lib/hadoop/steps/test/combine/

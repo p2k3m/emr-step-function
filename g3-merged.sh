@@ -1,0 +1,1 @@
+find /mnt/var/lib/hadoop/steps/test/combine/ -type f -print0 | xargs -0 -I {} cat {} >> /mnt/var/lib/hadoop/steps/test/nonprod_merged

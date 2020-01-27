@@ -1,0 +1,1 @@
+aws s3 sync /mnt/var/lib/hadoop/steps/test/ s3://ellucian-qe-eu/sqoop-output/prod --delete

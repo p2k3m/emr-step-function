@@ -1,0 +1,1 @@
+chmod 400 /mnt/var/lib/hadoop/steps/script/qe-eu-MHP.pem

@@ -1,0 +1,1 @@
+sudo aws s3 cp s3://ellucian-qe-eu/analytics/ojdbc8.jar /usr/lib/sqoop/lib/

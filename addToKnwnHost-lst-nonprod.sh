@@ -1,0 +1,1 @@
+ssh-keyscan -H -t rsa 10.232.12.20  >> ~/.ssh/known_hosts

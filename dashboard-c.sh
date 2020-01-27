@@ -1,0 +1,1 @@
+sudo aws s3 cp s3://ellucian-qe-eu/analytics/orai18n.jar /usr/lib/sqoop/lib/
